@@ -7,7 +7,7 @@
 ### How to run this project
 
 1. git clone https://github.com/yekaterinamikhalchuk/boenergotest.git
-2. cd boenergotest/boenergo
+2. cd Schneider/SchneiderTest
 3. Install docket ([See the official documentation](https://docs.docker.com/engine/install/))
 4. docker-compose build
 5. docker-compose up
